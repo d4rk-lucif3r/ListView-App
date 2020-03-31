@@ -1,5 +1,5 @@
-# App with ListView Tutorial Android Studio by Arsh Anwar
- (Tutorial) For Creating an app with a ListView Which shows Pictures Upon Clicking.
+# App with ListView  by Arsh Anwar
+An app with a ListView Which shows Pictures Upon Clicking.
  # Description
  - Main Activity Consist of 3 ListViews which upon clicking shows pictures.
  # Preview
