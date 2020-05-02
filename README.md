@@ -1,5 +1,6 @@
 # App with ListView  by Arsh Anwar
-An app with a ListView Which shows Pictures Upon Clicking.
+![Google Phone](https://img.shields.io/badge/Android-Lollipop+-blue.svg?logo=google&longCache=true&style=flat-square)
+- An app with a ListView Which shows Pictures Upon Clicking.
  # Description
  - Main Activity Consist of 3 ListViews which upon clicking shows pictures.
  # Preview
